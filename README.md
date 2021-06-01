@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suprabhatchatterjee
 - 👀 I’m interested in Web Development,Java,Mysql
-- 🌱 I’m currently learning MySql database
+- 🌱 I’m currently learning B.Tech in Electronics & Communication Engineering from IEM,Kolkata
 - 📫 How to reach me suprabhat.chatterjee@yahoo.in
 
 <!---
